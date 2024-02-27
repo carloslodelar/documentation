@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://carloslodelar.github.io/documentation/blog</id>
-    <title>Cardano Blog</title>
+    <title>Cardano node Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://carloslodelar.github.io/documentation/blog"/>
-    <subtitle>Cardano Blog</subtitle>
+    <subtitle>Cardano node Blog</subtitle>
     <icon>https://carloslodelar.github.io/documentation/img/cardano.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
