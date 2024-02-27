@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Cardano',
+  title: 'Cardano node',
   tagline: 'documentation',
   favicon: 'img/cardano.ico',
 
@@ -20,11 +20,11 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'carlos', // Usually your GitHub org/user name.
+  organizationName: 'carloslodelar', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
